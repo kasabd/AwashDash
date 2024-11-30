@@ -1,8 +1,8 @@
+#This is customer Credit Worthiness Modeling using machine learning. It predicts wether a customer is eligible for a given credit based on different feature
+
 #!/usr/bin/env python
 # coding: utf-8
-
 # In[1]:
-
 import pathlib
 import pandas as pd
 PATH = pathlib.Path(__file__).parent
